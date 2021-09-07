@@ -9,8 +9,6 @@ A lightweight script to animate scrolling to anchor links. Smooth Scroll works g
 
 <hr>
 
-
-
 ## Getting Started
 
 Compiled and production-ready code can be found in the `dist` directory. The `src` directory contains development code.
